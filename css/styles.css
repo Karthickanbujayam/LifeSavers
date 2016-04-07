@@ -1,0 +1,35 @@
+/*
+@import url('*****.css');
+@import url('*****.css'); 
+@import url('*****.css'); 
+@import url('*****.css'); 
+@import url('*****.css'); 
+@import url('*****.css'); 
+@import url('*****.css'); 
+@import url('*****.css'); 
+@import url('*****.css'); 
+
+*/
+
+html {
+    font-size: 1em;
+}
+body {
+    min-width: 1200px;
+}
+a {
+    cursor: pointer;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #333333;
+    border-bottom: none;
+}
+:focus, a:focus {
+    outline: none;
+    text-decoration: initial;
+}
+.clear {clear: both;}
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
