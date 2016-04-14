@@ -1,0 +1,14 @@
+{
+  "name": "traning",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "non"
+  },
+  "author": "",
+  "license": "ISC"
+}
